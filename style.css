@@ -1,0 +1,54 @@
+#start-pause-button {
+  margin: 10px;
+}
+
+.grid {
+  width: 180px;
+  height: 180px;
+  border: 1px solid black;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+.grid div {
+  width: 20px;
+  height: 20px;
+}
+
+.ending-block {
+  background: red;
+}
+.start-block {
+  background: blue;
+}
+
+/* .log-left,
+.log-right {
+  background: lightblue;
+}
+.car-left,
+.car-right {
+  background: lightgray;
+} */
+
+.l1,
+.l2,
+.l3 {
+  background: brown;
+}
+.l4,
+.l5 {
+  background: lightblue;
+}
+
+.c1 {
+  background: black;
+}
+.c2,
+.c3 {
+  background: lightgray;
+}
+
+.frog {
+  background: green;
+}
